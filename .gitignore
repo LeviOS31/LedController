@@ -1,0 +1,34 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+bld/
+[Oo]bj/
+[Oo]ut/
+[Ll]og/
+[Ll]ogs/
+**/[Bb]in/*
+**/[Oo]bj/*
+
+# Visual Studio user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Visual Studio Code (if applicable)
+.vscode/
+
+# NuGet packages and lock files
+**/packages/*
+*.nupkg
+*.snupkg
+
+# Crash dumps / backup files
+*.bak
+*.tmp
+*.crash
+*.dmp

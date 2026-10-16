@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\StripControlmadebyme\StripControlmadebyme\bin\Release\net10.0-windows\publish\win-x64\StripControlmadebyme.exe
+C:\Users\User\source\repos\StripControlmadebyme\StripControlmadebyme\bin\Release\net10.0-windows\publish\win-x64\StripControlmadebyme.dll
+C:\Users\User\source\repos\StripControlmadebyme\StripControlmadebyme\bin\Release\net10.0-windows\publish\win-x64\StripControlmadebyme.deps.json
+C:\Users\User\source\repos\StripControlmadebyme\StripControlmadebyme\bin\Release\net10.0-windows\publish\win-x64\StripControlmadebyme.runtimeconfig.json
+C:\Users\User\source\repos\StripControlmadebyme\StripControlmadebyme\bin\Release\net10.0-windows\publish\win-x64\StripControlmadebyme.dll.config
+C:\Users\User\source\repos\StripControlmadebyme\StripControlmadebyme\bin\Release\net10.0-windows\publish\win-x64\StripControlmadebyme.pdb
